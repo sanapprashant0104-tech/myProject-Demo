@@ -58,24 +58,6 @@ I want to improve my coding skills and become a successful Full-Stack Developer 
 
 ---
 
-# 📂 How to Run Project
-
-```bash
-git clone https://github.com/your-username/project-name.git
-```
-
-Open the folder and run the project in browser or IDE.
-
----
-
-# 📬 Connect With Me
-
-📧 Email: your-email@gmail.com  
-🔗 LinkedIn: your-linkedin-link  
-🐙 GitHub: your-github-link  
-
----
-
 <div align="center">
 
 ### ⭐ Thank You for Visiting My Repository ⭐
